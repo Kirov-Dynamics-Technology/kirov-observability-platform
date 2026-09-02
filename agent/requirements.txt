@@ -3,4 +3,4 @@ prometheus-client==0.26.0
 orjson==3.12.0
 fastapi==0.141.1
 uvicorn[standard]==0.52.4
-pydantic==2.13.4
+pydantic==2.13.5
